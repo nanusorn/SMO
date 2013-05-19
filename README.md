@@ -1,8 +1,7 @@
-โครงการ SMO Server
+SMO Server
 
-นักพัฒนา : 
-นนุสรณ์ พจน์พิพัฒน์
-นิมิตร์ ลือประเสริฐ
-นวพันธ์ อร่ามพิบูลกิจ
-และน้องอีกสองคน (จะปรับปรุงต่อไป)
+Developer:
+Nanusorn Photpipat
+Nimit Lueprasert
+Nawapan 
 
