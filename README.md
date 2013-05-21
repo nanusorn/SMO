@@ -8,6 +8,6 @@ Developers
 *  Nanusorn Photpipat (nanusorn At photpipat.com)
 *  Nimit Lueprasert (wonuponatime At hotmail.com)
 *  Nawapan 
-*  TBD
-*  TBD
+*  Kittikoon Boonkate 
+*  Itsarest Jantarakart
 
